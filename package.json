@@ -17,5 +17,6 @@
                 "path": "./themes/faded-html-tags-light-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "github:renehamburger/vscode-theme-faded-html-tags-light"
 }
