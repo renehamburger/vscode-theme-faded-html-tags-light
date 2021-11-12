@@ -3,6 +3,7 @@
     "displayName": "Faded HTML Tags (Light)",
     "description": "This light theme helps focussing on the actual text content of an HTML file by fading away all HTML tags.",
     "version": "0.0.1",
+    "publisher": "ReneHamburger",
     "engines": {
         "vscode": "^1.62.0"
     },
