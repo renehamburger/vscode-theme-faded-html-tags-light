@@ -1,0 +1,21 @@
+{
+    "name": "faded-html-tags-light",
+    "displayName": "Faded HTML Tags (Light)",
+    "description": "This light theme helps focussing on the actual text content of an HTML file by fading away all HTML tags.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "faded-html-tags-light",
+                "uiTheme": "vs",
+                "path": "./themes/faded-html-tags-light-color-theme.json"
+            }
+        ]
+    }
+}
